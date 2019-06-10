@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1373.661" height="999.354" viewBox="0 0 1373.661 999.354">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.63" y1="-0.656" x2="1.979" y2="1.69" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f5ae4"/>
+      <stop offset="1" stop-color="#a500e9"/>
+    </linearGradient>
+    <filter id="Path_312" x="0" y="0" width="1373.661" height="999.354" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Symbol_3_1" data-name="Symbol 3 – 1" transform="translate(25.524 -2415.595)">
+    <g id="Group_257" data-name="Group 257" transform="translate(75 -865)">
+      <g transform="matrix(1, 0, 0, 1, -100.52, 3280.59)" filter="url(#Path_312)">
+        <path id="Path_312-2" data-name="Path 312" d="M2255.957,3207.91c35.669-19.043,183.971-251.777,384.271-175.684s400.794-121.864,604.166-35.334c232.958,99.118,296.016,574.661,241.285,738.676s-123.718,255.649-448.116,112.416-158.934-17.9-494.219-24.618S2099.2,3360.1,2255.957,3207.91" transform="translate(-2158.01 -2957.14)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="Manage_all_benefits_in_single_Dashboard" data-name="Manage all benefits  in single Dashboard" transform="translate(586 3466)" fill="#fff" font-size="40" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic"><tspan x="-368.145" y="0" xml:space="preserve">Manage all benefits  in single Dashboard</tspan></text>
+      <text id="Books" transform="translate(34 3615)" fill="#fff" font-size="35" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-44.254" y="0">Books</tspan></text>
+      <text id="Lectures" transform="translate(49 3772)" fill="#fff" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-52.559" y="0">Lectures</tspan></text>
+      <text id="Customized_Notes" data-name="Customized Notes" transform="translate(555 3615)" fill="#fff" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-117.217" y="0">Customized Notes</tspan></text>
+      <text id="Resume_Building" data-name="Resume Building" transform="translate(248 3997)" fill="#fff" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-107.93" y="0">Resume Building</tspan></text>
+      <text id="Internship" transform="translate(503 3772)" fill="#fff" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-64.622" y="0">Internship</tspan></text>
+      <text id="Manage_your_bookbank_and_account_" data-name="Manage your bookbank and
+account   " transform="translate(-12 3655)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Manage your bookbank and</tspan><tspan x="0" y="27" xml:space="preserve">account   </tspan></text>
+      <text id="Question_Paper_Sample_papers_" data-name="Question Paper
+Sample papers
+   " transform="translate(438 3649)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Question Paper</tspan><tspan x="0" y="27">Sample papers</tspan><tspan x="0" y="54" xml:space="preserve">   </tspan></text>
+      <text id="Manage_your_application_" data-name="Manage your application
+" transform="translate(438 3811)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Manage your application</tspan><tspan x="0" y="27"></tspan></text>
+      <text id="Customized_lectures_Video_directories_Courses" data-name="Customized lectures 
+Video directories
+Courses" transform="translate(-4 3811)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Customized lectures </tspan><tspan x="0" y="27">Video directories</tspan><tspan x="0" y="54">Courses</tspan></text>
+      <text id="Manage_your_resume_Skill_Management_" data-name="Manage your resume
+Skill Management " transform="translate(140 4030)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Manage your resume</tspan><tspan x="0" y="27">Skill Management </tspan></text>
+    </g>
+    <path id="Path_321" data-name="Path 321" d="M15.5,0H41" transform="translate(132.5 2813.5)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    <line id="Line_40" data-name="Line 40" x2="9" y2="4" transform="translate(164.5 2809.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_41" data-name="Line 41" y1="4" x2="9" transform="translate(164.5 2813.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Path_322" data-name="Path 322" d="M15.5,0H41" transform="translate(132.5 2813.5)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    <line id="Line_42" data-name="Line 42" x2="9" y2="4" transform="translate(164.5 2809.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_43" data-name="Line 43" y1="4" x2="9" transform="translate(164.5 2813.5)" fill="none" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>

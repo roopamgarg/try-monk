@@ -1,0 +1,46 @@
+.pricing-page{
+    background: $light-grey;
+    &__card-list{
+        padding: 5rem;
+    }
+    .bg-transparent{
+        background: rgba(#000,0);
+    }
+    
+    nav a{
+        color: $color-black !important;
+    }
+    &__card-list{
+        @include respond(tab-land){
+            display: block;
+        }
+    }
+    &__header{
+       height: 100%;
+        background: url('./img/bg/PRICING-HEAD-BG.svg') center center;
+        background-size: cover;
+        background-position: top;
+       
+        
+        h1{
+            height: 40vh;
+            font-weight: 200;
+            display: flex;
+            justify-content: center;
+            font-style: italic;
+            letter-spacing: .2rem;
+            align-items: flex-end;
+        }
+        .header_secondary{
+            height: 20vh;
+            font-weight: 200;
+            letter-spacing: .2rem;
+
+            font-style: italic;
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+        }
+        
+    }
+}

@@ -1,0 +1,79 @@
+.pricing-card{
+    width: 20vw;
+    border-radius: 10px;
+    overflow: hidden;
+    @include respond(tab-land){
+       width: 80vw;
+       margin:2rem 0;
+    }
+
+    &__header{
+        color: $white;
+        font-size: 1.6rem;
+        font-weight: 100;
+        letter-spacing: .2rem;
+        padding: 1rem;
+        text-align: center;
+    }
+    &.orange &__header{
+        background: linear-gradient(90deg,#FFB88C,#E56590)
+
+    }
+    &.green &__header{
+        background: linear-gradient(90deg,#4CCBAB,#3E75CE)
+
+    }
+    &.purple &__header{
+        background: linear-gradient(90deg,#F78CFF,#6594E5)
+
+    }
+    &__content{
+        background: $white;
+        padding: 1rem;
+    }
+    &__pricing{
+        text-align: center;
+        border-bottom: .5px solid $blue;
+        margin: 1rem 0;
+        h2{
+            font-size: 3.5rem;
+            font-weight: 700;
+        }
+       
+    }
+    &.orange  &__pricing{
+        
+        
+        h2,h4{
+            color:#F97D7D;
+        }
+    }
+    &.green  &__pricing{
+        
+        h2,h4{
+            color:#079C9C;
+        }
+    } 
+    &.purple &__pricing{
+       
+
+        h2,h4{
+            color:#AD00C1;
+        }
+    }
+    &__features{
+        padding-bottom: 5rem;
+        padding: 0 1rem 5rem;
+        li{
+            display: block;
+            font-size: 1.2rem;
+            font-weight: 600;
+        
+            @include respond(tab-land){
+                font-size: 1.6rem;
+                font-weight: 200; 
+             }
+        }
+    }
+
+}

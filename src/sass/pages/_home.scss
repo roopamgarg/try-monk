@@ -1,0 +1,230 @@
+.home-page{
+   
+    width: 100vw;
+
+    position: relative;
+    @include respond(phone){
+        height: 550vh;
+  //      background: linear-gradient(to right, #8e2de2, #4a00e0);
+    }
+
+}
+.header-container{
+   
+    background: url('./img/bg/new\ ed.svg') center center no-repeat;
+    background-size: cover;
+
+}
+.section-why-us{
+  
+    min-height: 95rem;
+    padding: 10rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    @include respond(tab-port){
+        margin-top: -10rem;
+        
+    }
+    @include respond(phone){
+        margin: 0rem 0 0 0;
+    }
+}
+
+.heading--black{
+    margin-bottom: 2rem;
+    font-weight: 900;
+    color: rgba($color-black,.8);
+    font-size: 3rem;
+
+}
+
+.heading--white{
+    margin-bottom: 2rem;
+    font-weight: 900;
+    color: rgba($white,1);
+    font-size: 3rem;
+    
+}
+
+.sm-text-white{
+    @include respond(phone){
+        color: $color-white !important;
+        
+    }
+}
+.section-feedback{
+    padding: 10rem;
+
+    background: url('./img/bg/dot-bg.svg') center center;
+    background-size: cover;
+    @include respond(tab-port){
+    padding: 10rem 1rem;
+
+    }
+}
+.section-enroll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.enroll-card{
+    width: 70vw;
+   
+    display: flex;
+    background:$white;
+    justify-content: center;
+    align-items: center;
+    box-shadow: .5rem 1rem 4rem rgba($color-black,.2);
+    padding: 2rem;
+    &__content{
+        flex:1;
+        font-size: 1.4rem;
+    }
+    &__btn-box{
+        color:$white
+    }
+    @include respond(phone){
+        display: block;
+    }
+}
+
+footer{
+    position: absolute;
+    bottom: 10px;
+    width: 100vw;
+    color:$white;
+    span{
+        font-size: 1.4rem;
+        font-weight: 900;
+    }
+}
+
+.features{
+    &-container{
+        background: url("./img/bg/dots.svg")center center;
+        background-size: cover;
+
+        
+    }
+    &__box{
+        width: 20vw;
+        padding: 2rem;
+        margin:2rem;
+        border-radius: 1rem;
+        background-color: initial;
+        @include respond(tab-port){
+            width: 40vw;
+        }
+       
+        h4{
+            color:#0000ff;
+            font-size: 1rem;
+            font-weight: 600;
+        transition: all .2s;           
+
+        }
+        p{
+            font-size: 1.4rem;
+            font-weight: 600;
+        transition: all .2s;
+
+        }
+        &:hover{
+            background-color: #0000ff;
+            box-shadow: .5rem 1rem 4rem rgba($color-black,.2);
+            
+            h4,p{
+                color: $white;
+            }
+            p{
+
+            }
+        }
+    }
+    
+}
+
+.our-dashboard{
+    height: 150vh;
+    background: url('./img/bg/Artboard\ –\ 1.svg') center center no-repeat;
+    background-size: cover;
+    @include respond(tab-port){
+    background: url('./img/bg/dash-feature-sm.svg') center center no-repeat;
+
+    background-size: 200%;
+
+    }
+    h2{
+        text-align: center;
+        margin:2rem;
+        color: $white;
+    }
+    &__content{
+        width: 50%;
+        height: 100%;
+        @include respond(tab-port){
+            width: 100%;
+            height: 100%;
+            }
+    }
+    &__card{
+        padding: 2rem;
+        margin:1rem;
+        color: white;
+        width: 20rem;
+        h4{
+            font-size: 1.4rem;
+            font-weight:100;
+            font-style: italic;
+        }
+        p{
+            font-size: 1.4rem;
+        }
+    }
+}
+
+.reach{
+    @include respond(tab-port){
+     display: block ;
+        }
+    &__banner{
+
+        width: 50vw;
+        height: 100vh;
+        background: url('./img/bg/clg-logos.svg')center center;
+        background-size: cover;
+        @include respond(tab-port){
+            width: 100vw;
+               }
+    }
+    &__content{
+        width: 50vw;
+
+        padding: 5rem 15rem 5rem 5rem;
+        @include respond(tab-port){
+            width: 100vw;
+               }
+        h4{
+            color:#0000ff;
+
+            font-size: 1.4rem;
+         
+            font-style: italic;
+        }
+        p{
+            font-size: 2rem;
+            font-weight: 600;
+        }
+
+        img{
+            margin-top:5rem;
+            width: 40vw;
+            @include respond(tab-port){
+                width: 80vw;
+                   }
+        }
+    }
+}

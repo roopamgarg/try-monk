@@ -1,0 +1,44 @@
+.my-card{
+    display: flex !important;
+    flex-direction: row !important;
+    padding: 5rem 2rem;;
+    width: 30vw;
+   box-shadow: .2rem .5rem 2rem rgba($color-black,.2);
+    background: $white; 
+    margin: 2rem ;
+    border-radius: 5px;
+    border-top:5px solid $color-dark-green;
+    @include respond(tab-port){
+        width: 60vw;
+    }
+    @include respond(phone){
+        width: 80vw;
+    }
+    &__header{
+        font-size: 2rem;
+    }
+    &__img-box{
+        padding: 2rem;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+       
+    }
+
+    &__img{
+        display: block;
+        height: 5rem;
+        width: 5rem;
+    }
+    &__content{
+        flex:1;
+        font-size: 1.8rem;
+        
+    }
+
+    &__para{
+        min-height: 50%;
+    }
+
+
+}

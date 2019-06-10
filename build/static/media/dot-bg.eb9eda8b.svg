@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2096" height="897" viewBox="0 0 2096 897">
+  <defs>
+    <filter id="Ellipse_66" x="293" y="189" width="108" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-dot-bg">
+      <rect width="2096" height="897"/>
+    </clipPath>
+  </defs>
+  <g id="dot-bg" clip-path="url(#clip-dot-bg)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_66)">
+      <g id="Ellipse_66-2" data-name="Ellipse 66" transform="translate(302 195)" fill="#fff" stroke="#ff2c00" stroke-width="3">
+        <circle cx="45" cy="45" r="45" stroke="none"/>
+        <circle cx="45" cy="45" r="43.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Ellipse_68" data-name="Ellipse 68" transform="translate(392 686)" fill="#fff" stroke="#00ffd4" stroke-width="4">
+      <circle cx="55" cy="55" r="55" stroke="none"/>
+      <circle cx="55" cy="55" r="53" fill="none"/>
+    </g>
+    <g id="Ellipse_67" data-name="Ellipse 67" transform="translate(1629 135)" fill="none" stroke="#f90" stroke-width="4">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="28" fill="none"/>
+    </g>
+  </g>
+</svg>

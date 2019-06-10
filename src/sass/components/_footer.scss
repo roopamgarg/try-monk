@@ -1,0 +1,36 @@
+.footer{
+    height: 100vh;
+    background: url('./img/bg/FOOTER-BG-trans.svg') center center;
+    background-size: cover;
+
+    &__content{
+        height: 70vh;
+        color: $white;
+       padding: 3rem;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: flex-end;
+        li{
+            display: block;
+
+            font-size: 1.4rem;
+        }
+        li:first-child{
+            font-size: 1.8rem;
+            font-weight: 600;
+
+        }
+
+       
+    }
+    &__privacy{
+        display: flex;
+        height: 10vh;
+        padding: 0 3rem;
+        justify-content: space-between;
+        align-items: flex-end;
+        color: $white;
+        font-size: 1.4rem;
+
+    }
+}

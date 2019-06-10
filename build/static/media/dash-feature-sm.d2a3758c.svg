@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2778" height="1853" viewBox="0 0 2778 1853">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.63" y1="-0.656" x2="1.979" y2="1.69" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f5ae4"/>
+      <stop offset="1" stop-color="#a500e9"/>
+    </linearGradient>
+    <filter id="Path_312" x="-27.541" y="-17.48" width="2842.516" height="1882.97" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-dash-feature-sm">
+      <rect width="2778" height="1853"/>
+    </clipPath>
+  </defs>
+  <g id="dash-feature-sm" clip-path="url(#clip-dash-feature-sm)">
+    <rect width="2778" height="1853" fill="#fff"/>
+    <g id="Symbol_3_2" data-name="Symbol 3 – 2" transform="translate(429 -2260)">
+      <g id="Group_257" data-name="Group 257" transform="translate(-308 -1003)">
+        <g transform="matrix(1, 0, 0, 1, -121, 3263)" filter="url(#Path_312)">
+          <path id="Path_312-2" data-name="Path 312" d="M2334.405,3426.237c75.4-36.86,388.9-487.323,812.318-340.043s847.247-235.873,1277.16-68.391c492.453,191.846,625.752,1112.277,510.056,1429.734s-261.53,494.818-947.282,217.584-335.973-34.654-1044.74-47.649S2003.034,3720.8,2334.405,3426.237" transform="translate(-2185.53 -2974.54)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

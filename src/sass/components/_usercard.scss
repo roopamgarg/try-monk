@@ -1,0 +1,103 @@
+.user-card{
+    background: url('./img/bg/feedback.svg') center center;
+    background-size: 100% 100%;
+    padding: 10rem;
+
+    width: 50vw;
+    height: 50vh;
+    
+    @include respond(tab-land){
+        padding: 7rem;
+        width: 90vw;
+        height: 100%;
+        background-size: 100% 100%;
+    }
+    &__heading{
+        font-size: 2rem;
+        font-weight: 200;
+    }
+    &__content{
+
+        text-overflow: clip;
+        text-align: center;
+        font-size: 1.5rem;
+        margin: 2rem;
+        @include respond(tab-land){
+            margin: 1rem;
+        }
+
+    }
+    &__detail{
+        text-align: center;
+        h2{
+            font-size: 1.4rem;
+            font-weight: 500;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// .user-card{
+//     padding: 2rem;
+//     background: $white;
+//     color:$color-black;
+//     border:.1px solid rgba($color-black,.6);
+//     border-radius: 1rem;
+//     width: 20vw;
+//     box-shadow: .2rem 1rem 4rem rgba($color-black,.2);
+//     margin:1rem;
+//     @include respond(tab-port){
+//         width: 30vw;
+        
+//     }
+//     @include respond(phone){
+//         width: 70vw;
+        
+//     }
+//     &__img-box{
+//         text-align: center;
+//         padding: 4rem;
+//     }
+//     &__img{
+//         border-radius: 50%;
+//         height: 10rem;
+//         width: 10rem;
+//     }
+//     &__content{
+//         text-align: center;
+//         h2{
+//             font-size: 2rem;
+//         }
+//         p{
+//             font-size: 1.6rem;
+//         }
+//     }
+// }
+

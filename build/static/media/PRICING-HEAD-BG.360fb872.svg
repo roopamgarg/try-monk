@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1486" viewBox="0 0 1920 1486">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.184" y1="-0.398" x2="1.368" y2="1.343" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#53ffee"/>
+      <stop offset="1" stop-color="#f8ff33"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9af9df"/>
+      <stop offset="1" stop-color="#22b2cf"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.184" y1="-0.398" x2="1.368" y2="1.343" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9d53ff"/>
+      <stop offset="1" stop-color="#ff85df"/>
+    </linearGradient>
+    <clipPath id="clip-PRICING-HEAD-BG">
+      <rect width="1920" height="1486"/>
+    </clipPath>
+  </defs>
+  <g id="PRICING-HEAD-BG" clip-path="url(#clip-PRICING-HEAD-BG)">
+    <path id="Path_350" data-name="Path 350" d="M842-341c43.768,0-175.2,155.333-304.2,259.333S356.744,50.112,326,75c-84,68-110.5,175.5-192,188S-48,235,0,125,127.146-48.328,326-177C615.956-364.621,801.062-341,842-341Z" transform="translate(1260 765)" fill="url(#linear-gradient)"/>
+    <path id="Path_349" data-name="Path 349" d="M-2072-220c201-116,787,472,656,580s-640,609-804,464S-2273-104-2072-220Z" transform="translate(2055 23)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_45" data-name="Ellipse 45" cx="125" cy="125" r="125" transform="translate(364 50)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

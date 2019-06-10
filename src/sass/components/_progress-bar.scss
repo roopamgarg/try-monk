@@ -1,0 +1,31 @@
+#progressbar{
+	height: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	margin-left: 30px;
+	font-size: 14px;
+	color: $white;
+	margin-top: 100px;
+	li{
+		position: relative;
+	}
+	li:before{
+		content: "";
+		position: absolute;
+		left:-12.5px;
+		top:-115px;
+		height:125px;
+		width: 1px;
+		background-color: $white;
+	}
+	.active{
+		list-style:square;
+		
+		color:black;
+		&:before{
+			background-color: $color-black;
+
+		}
+	}
+}

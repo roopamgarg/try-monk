@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1203" viewBox="0 0 1920 1203">
+  <defs>
+    <filter id="Path_320" x="1364" y="807" width="86" height="109.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="-0.63" y1="-0.656" x2="1.979" y2="1.69" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f5ae4"/>
+      <stop offset="1" stop-color="#a500e9"/>
+    </linearGradient>
+    <filter id="Path_312" x="-224.523" y="76.595" width="1373.661" height="999.354" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_318" x="860.674" y="198" width="1264.596" height="776.758" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_242" x="969" y="228" width="1042" height="724" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="-3" y1="-2.516" x2="1.056" y2="0.28" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#09f" stop-opacity="0.302"/>
+      <stop offset="1" stop-color="#d850d8" stop-opacity="0.278"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-3" y1="-2.516" x2="1.056" y2="0.28" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffa0" stop-opacity="0.302"/>
+      <stop offset="1" stop-color="#56a7dc" stop-opacity="0.278"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1.587" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff0707" stop-opacity="0.251"/>
+      <stop offset="1" stop-color="#390084" stop-opacity="0.239"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="-3" y1="-2.516" x2="2.906" y2="1.947" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7ff00" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#0f8" stop-opacity="0.278"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" y1="-0.747" x2="2.906" y2="1.947" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff3400" stop-opacity="0.271"/>
+      <stop offset="1" stop-color="#ffd500" stop-opacity="0.278"/>
+    </linearGradient>
+    <filter id="Path_319" x="1468" y="585" width="86" height="109.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_34" x="298" y="1037" width="79" height="79" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_1">
+      <rect width="1920" height="1203"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="1920" height="1203" fill="#fff"/>
+    <g id="Group_275" data-name="Group 275">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_320)">
+        <path id="Path_320-2" data-name="Path 320" d="M2,0,70,49,2,91.5Z" transform="translate(1371 813)" fill="rgba(255,255,255,0.28)"/>
+      </g>
+      <line id="Line_33" data-name="Line 33" x1="37" transform="translate(1203.5 1134.5)" fill="none" stroke="#33ffd5" stroke-width="3"/>
+      <g id="Symbol_3_2" data-name="Symbol 3 – 2" transform="translate(-199 -2339)">
+        <g id="Group_257" data-name="Group 257" transform="translate(75 -865)">
+          <g transform="matrix(1, 0, 0, 1, 124, 3204)" filter="url(#Path_312)">
+            <path id="Path_312-2" data-name="Path 312" d="M2255.957,3207.91c35.669-19.043,183.971-251.777,384.271-175.684s400.794-121.864,604.166-35.334c232.958,99.118,296.016,574.661,241.285,738.676s-123.718,255.649-448.116,112.416-158.934-17.9-494.219-24.618S2099.2,3360.1,2255.957,3207.91" transform="translate(-2382.53 -2880.54)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+          </g>
+          <text id="Manage_all_benefits_in_single_Dashboard" data-name="Manage all benefits  in single Dashboard" transform="translate(586 4586)" fill="#fff" font-size="40" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic"><tspan x="-368.145" y="0" xml:space="preserve">Manage all benefits  in single Dashboard</tspan></text>
+          <text id="Books" transform="translate(34 4735)" fill="#fff" font-size="35" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-44.254" y="0">Books</tspan></text>
+          <text id="Lectures" transform="translate(49 4892)" fill="#fff" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-52.559" y="0">Lectures</tspan></text>
+          <text id="Customized_Notes" data-name="Customized Notes" transform="translate(555 4735)" fill="#fff" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-117.217" y="0">Customized Notes</tspan></text>
+          <text id="Resume_Building" data-name="Resume Building" transform="translate(248 5117)" fill="#fff" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-107.93" y="0">Resume Building</tspan></text>
+          <text id="Internship" transform="translate(503 4892)" fill="#fff" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-64.622" y="0">Internship</tspan></text>
+          <text id="Manage_your_bookbank_and_account_" data-name="Manage your bookbank and
+account   " transform="translate(-12 4775)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Manage your bookbank and</tspan><tspan x="0" y="27" xml:space="preserve">account   </tspan></text>
+          <text id="Question_Paper_Sample_papers_" data-name="Question Paper
+Sample papers
+   " transform="translate(438 4769)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Question Paper</tspan><tspan x="0" y="27">Sample papers</tspan><tspan x="0" y="54" xml:space="preserve">   </tspan></text>
+          <text id="Manage_your_application_" data-name="Manage your application
+" transform="translate(438 4931)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Manage your application</tspan><tspan x="0" y="27"></tspan></text>
+          <text id="Customized_lectures_Video_directories_Courses" data-name="Customized lectures 
+Video directories
+Courses" transform="translate(-4 4931)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Customized lectures </tspan><tspan x="0" y="27">Video directories</tspan><tspan x="0" y="54">Courses</tspan></text>
+          <text id="Manage_your_resume_Skill_Management_" data-name="Manage your resume
+Skill Management " transform="translate(140 5150)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Manage your resume</tspan><tspan x="0" y="27">Skill Management </tspan></text>
+        </g>
+        <path id="Path_321" data-name="Path 321" d="M15.5,0H41" transform="translate(132.5 2813.5)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g id="Group_255" data-name="Group 255" transform="translate(-267 -3229)">
+        <g id="Group_254" data-name="Group 254" transform="translate(-84 2145)">
+          <g transform="matrix(1, 0, 0, 1, 351, 1084)" filter="url(#Path_318)">
+            <path id="Path_318-2" data-name="Path 318" d="M27.909,0H1058.682c15.554,0,28.163,13.613,28.163,30.4V722.619c0,7.254,36.785,17.486,54.473,24.017,22.7,8.381,27.017,12.121,18.182,12.121H-79.895c-21.212-24.242,79.64-19.346,79.64-36.138V30.4A32.143,32.143,0,0,1,5.077,12.6,27.439,27.439,0,0,1,27.909,0Z" transform="translate(954.5 209)" fill="#fff"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 351, 1084)" filter="url(#Rectangle_242)">
+            <rect id="Rectangle_242-2" data-name="Rectangle 242" width="1018" height="700" rx="6" transform="translate(981 237)" fill="#fff"/>
+          </g>
+          <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="45.5" cy="41" rx="45.5" ry="41" transform="translate(1401 1361)" fill="rgba(0,255,255,0.22)"/>
+          <rect id="Rectangle_243" data-name="Rectangle 243" width="228" height="52" transform="translate(1332 1479)" fill="rgba(135,135,135,0.36)"/>
+          <rect id="Rectangle_244" data-name="Rectangle 244" width="200" height="12" rx="6" transform="translate(1604 1380)" fill="rgba(68,65,65,0.11)"/>
+          <rect id="Rectangle_245" data-name="Rectangle 245" width="166" height="12" rx="6" transform="translate(1604 1410)" fill="rgba(68,65,65,0.11)"/>
+          <rect id="Rectangle_246" data-name="Rectangle 246" width="237" height="17" rx="8.5" transform="translate(1604 1435)" fill="rgba(68,65,65,0.11)"/>
+          <rect id="Rectangle_247" data-name="Rectangle 247" width="218" height="93" rx="6" transform="translate(1604 1475)" fill="url(#linear-gradient-2)"/>
+          <rect id="Rectangle_248" data-name="Rectangle 248" width="218" height="93" rx="6" transform="translate(1853 1472)" fill="url(#linear-gradient-3)"/>
+          <rect id="Rectangle_249" data-name="Rectangle 249" width="497" height="253" rx="8" transform="translate(1604 1583)" fill="url(#linear-gradient-4)"/>
+          <rect id="Rectangle_250" data-name="Rectangle 250" width="228" height="52" transform="translate(1333 1531)" fill="rgba(135,135,135,0.36)" stroke="#fff" stroke-linejoin="bevel" stroke-width="1"/>
+          <rect id="Rectangle_251" data-name="Rectangle 251" width="228" height="52" transform="translate(1333 1583)" fill="rgba(135,135,135,0.36)" stroke="#fff" stroke-linejoin="bevel" stroke-width="1"/>
+          <rect id="Rectangle_252" data-name="Rectangle 252" width="228" height="52" transform="translate(1333 1635)" fill="rgba(135,135,135,0.36)" stroke="#fff" stroke-linejoin="bevel" stroke-width="1"/>
+          <rect id="Rectangle_253" data-name="Rectangle 253" width="228" height="52" transform="translate(1333 1687)" fill="rgba(135,135,135,0.36)" stroke="#fff" stroke-linejoin="bevel" stroke-width="1"/>
+          <rect id="Rectangle_254" data-name="Rectangle 254" width="228" height="52" transform="translate(1333 1739)" fill="rgba(135,135,135,0.36)" stroke="#fff" stroke-linejoin="bevel" stroke-width="1"/>
+          <rect id="Rectangle_255" data-name="Rectangle 255" width="227" height="174" rx="6" transform="translate(1333 1827)" fill="url(#linear-gradient-3)"/>
+          <rect id="Rectangle_256" data-name="Rectangle 256" width="119" height="72" rx="6" transform="translate(1604 1854)" fill="url(#linear-gradient-6)"/>
+          <rect id="Rectangle_257" data-name="Rectangle 257" width="119" height="72" rx="6" transform="translate(1744 1854)" fill="url(#linear-gradient-7)"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 267, 3229)" filter="url(#Path_319)">
+          <path id="Path_319-2" data-name="Path 319" d="M2,0,70,49,2,91.5Z" transform="translate(1475 591)" fill="rgba(255,255,255,0.28)"/>
+        </g>
+      </g>
+      <circle id="Ellipse_32" data-name="Ellipse 32" cx="94" cy="94" r="94" transform="translate(732 52)" fill="rgba(255,255,255,0.63)"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_34)">
+        <circle id="Ellipse_34-2" data-name="Ellipse 34" cx="30.5" cy="30.5" r="30.5" transform="translate(307 1043)" fill="rgba(255,0,0,0.22)"/>
+      </g>
+    </g>
+  </g>
+</svg>

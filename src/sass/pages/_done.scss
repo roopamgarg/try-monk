@@ -1,0 +1,10 @@
+.done-page{
+    &__box{
+        margin:1rem;
+        padding: 2rem;
+        background:rgba($green,.1);
+        color: $green;
+        text-transform: capitalize;
+        text-align: center;
+    }
+}

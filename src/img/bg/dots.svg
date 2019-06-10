@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1918" height="1259" viewBox="0 0 1918 1259">
+  <defs>
+    <filter id="Ellipse_30" x="1295" y="331" width="115" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_31" x="395" y="572" width="148" height="148" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-dots">
+      <rect width="1918" height="1259"/>
+    </clipPath>
+  </defs>
+  <g id="dots" clip-path="url(#clip-dots)">
+    <rect width="1918" height="1259" fill="#fff"/>
+    <g id="Group_276" data-name="Group 276" transform="translate(140 -880)">
+      <g transform="matrix(1, 0, 0, 1, -140, 880)" filter="url(#Ellipse_30)">
+        <circle id="Ellipse_30-2" data-name="Ellipse 30" cx="48.5" cy="48.5" r="48.5" transform="translate(1304 337)" fill="rgba(7,71,168,0.21)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -140, 880)" filter="url(#Ellipse_31)">
+        <circle id="Ellipse_31-2" data-name="Ellipse 31" cx="65" cy="65" r="65" transform="translate(404 578)" fill="rgba(255,102,0,0.27)"/>
+      </g>
+    </g>
+  </g>
+</svg>

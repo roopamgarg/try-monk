@@ -1,0 +1,54 @@
+.header{
+color:$white;
+height: 125vh;
+width: 50vw;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding: 10rem;
+@include respond(tab-port){
+    padding: 5rem;
+    width: 80vw;
+}
+@include respond(phone){
+    
+    width: 100vw;
+}
+
+    &__heading{
+        font-size: 4rem;
+        font-weight: 900;
+    }
+    &__paragraph{
+        font-size: 1.8rem;
+    }
+    &__input-box{
+        padding: 4rem 3rem 0 0;
+        position: relative;
+        
+    }
+    &__input{
+        width: 100%;
+        border-radius: 10rem;
+        padding: 1rem;
+        border:none;
+        font-size: 1.4rem !important;
+
+    }
+    &__btn{
+        position: absolute;
+        width: 30%;
+        right: 3.2rem;
+        top:4.2rem;
+        font-size: 1.4rem !important;
+    background: linear-gradient(to left,#897EEC,#41BFFF);
+        &:hover{
+            box-shadow: none;
+        }
+
+        @include respond(phone){
+            width: 40%;
+        }
+    }
+}
